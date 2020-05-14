@@ -8,4 +8,4 @@
 | 项目名  |  简介 |
 |--|--|
 | earthWallpaper | 设置地球卫星图片作为电脑壁纸 |
-| flappyBird | 一款小游戏 |
+| flappyBird | 基于Pygame的一款小游戏 |
