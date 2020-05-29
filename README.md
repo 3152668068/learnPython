@@ -9,3 +9,4 @@
 |--|--|
 | earthWallpaper | 设置地球卫星图片作为电脑壁纸 |
 | flappyBird | 基于Pygame的一款小游戏 |
+| stu_info_management_system | 基于终端的学生信息管理系统 |
