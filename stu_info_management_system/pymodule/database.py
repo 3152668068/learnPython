@@ -121,7 +121,7 @@ class database():
 
     def update(self,table_name):
         if table_name == 'stu_info':
-            sql="update stu_info set "
+            pass
         if table_name == 'stu_score':
             pass
         if table_name == 'course':
